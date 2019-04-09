@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">台北市立動物園</string>
+    <string name="no_memo">無休館資訊</string>
+    <string name="plant_info">植物資料</string>
+    <string name="plant_brief">簡介\n%1$s</string>
+    <string name="plant_alias">別名\n%1$s</string>
+    <string name="plant_feature">辨識方式\n%1$s</string>
+    <string name="plant_functionality">功能性\n%1$s</string>
+    <string name="plant_update">最後更新\n%1$s</string>
+    <string name="open_from_browser">在網頁開啟</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="item_padding">15dp</dimen>
+    <dimen name="item_image_width">100dp</dimen>
+    <dimen name="item_image_height">120dp</dimen>
+    <dimen name="item_next_image_width_and_height">20dp</dimen>
+    <dimen name="area_padding">15dp</dimen>
+    <dimen name="plant_padding">15dp</dimen>
+    <dimen name="image_top_padding">10dp</dimen>
+    <dimen name="image_height">245dp</dimen>
+
+    <dimen name="text_size">10sp</dimen>
+    <dimen name="text_spacing">3dp</dimen>
+    <dimen name="text_top_padding">5dp</dimen>
+    <dimen name="text_layout_top_padding">10dp</dimen>
+    <dimen name="plant_constraint_layout_text_width">0dp</dimen>
+
+    <dimen name="url_right_padding">7dp</dimen>
+
+    <dimen name="separator_height">1dp</dimen>
+    <dimen name="area_detail_separator_height">10dp</dimen>
+</resources>
